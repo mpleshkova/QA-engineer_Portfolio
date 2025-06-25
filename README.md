@@ -31,5 +31,5 @@ Here I showcase my skills and practical experience in manual and automated testi
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: pleshkova.bsn@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/marina-pleshkova](https://linkedin.com/in/marina-pleshkova)
