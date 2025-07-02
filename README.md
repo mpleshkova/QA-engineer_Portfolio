@@ -7,11 +7,24 @@ Here I showcase my skills through structured documentation, real projects, and a
 
 ## 📁 Projects
 
-- [📂 Projects](./Projects) – Real-world QA documentation grouped by projects  
-  └─ [🛒 Rohlik](./Projects/Rohlik) – Test cases, bug reports, checklists, automation, and API testing
-- [CV_and_Contacts](./CV_and_Contacts) | 📄 Resume and contact information |
-- [Notes_and_Learning](./Notes_and_Learning) | 📚 Notes, cheat sheets, and learning materials |
+- 📂 [Projects](./Projects) – Real-world QA documentation grouped by projects  
+  └── 🛒 [Rohlik](./Projects/Rohlik) – Test cases, bug reports, checklists, automation, and API testing
 
+---
+
+## 🧾 CV and Contacts
+
+- 📄 [CV_and_Contacts](./CV_and_Contacts) – Resume and contact information
+
+---
+
+## 🧠 Notes and Learning
+
+- 📂 [Notes_and_Learning](./Notes_and_Learning) – Notes, cheat sheets, and learning materials  
+  ├── 📚 [Books](./Notes_and_Learning/Books) – Must-read QA and tech-related books  
+  ├── 📝 [Blogs](./Notes_and_Learning/Blogs) – Articles and blog posts on QA and testing  
+  └── 🎧 [Podcasts](./Notes_and_Learning/Podcasts) – Educational and inspiring QA-related podcasts
+  
 ---
 
 ## 🔧 Technologies & Tools
