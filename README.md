@@ -9,8 +9,8 @@ Here I showcase my skills through structured documentation, real projects, and a
 
 - [📂 Projects](./Projects) – Real-world QA documentation grouped by projects  
   └─ [🛒 Rohlik](./Projects/Rohlik) – Test cases, bug reports, checklists, automation, and API testing
-- [CV_and_Contacts](./07_CV_and_Contacts) | 📄 Resume and contact information |
-- [Notes_and_Learning](./08_Notes_and_Learning) | 📚 Notes, cheat sheets, and learning materials |
+- [CV_and_Contacts](./CV_and_Contacts) | 📄 Resume and contact information |
+- [Notes_and_Learning](./Notes_and_Learning) | 📚 Notes, cheat sheets, and learning materials |
 
 ---
 
