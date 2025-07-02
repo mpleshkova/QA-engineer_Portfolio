@@ -27,6 +27,12 @@ Here I showcase my skills through structured documentation, real projects, and a
   
 ---
 
+## 🔬 AI_Research_Journal
+
+- 📂 [AI_Research_Journal](./AI_Research_Journal) – Researches
+  
+---
+
 ## 🔧 Technologies & Tools
 
 - Manual Testing (Test Cases, Bug Reports, Test Plans)
