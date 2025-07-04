@@ -18,21 +18,21 @@ and [iOS (App Store)](https://apps.apple.com/cz/app/rohlik-cz/id975560575?l=cs)
 
 This project showcases various QA artifacts related to both **web** and **mobile** versions of the Rohlik platform. The structure covers manual and automated testing practices.
 
-### 🌐 [Web_testing](./Web_testing)
-- [01_Test_Cases](./Web_testing/01_Test_Cases) – Structured test scenarios (e.g., login, cart, checkout)  
-- [02_Bug_Reports](./Web_testing/02_Bug_Reports) – Documented bugs with severity and steps  
-- [03_Checklists](./Web_testing/03_Checklists) – Feature and regression checklists  
-- [04_Test_Plans](./Web_testing/04_Test_Plans) – Sprint-level test planning  
-- [05_Automation_Tests](./Web_testing/05_Automation_Tests) – UI test automation scripts  
-- [06_API_Testing](./Web_testing/06_API_Testing) – Backend API testing for web features  
+### 🌐 [Web_Testing](./Web_Testing)
+- [01_Test_Cases](./Web_Testing/01_Test_Cases) – Structured test scenarios (e.g., login, cart, checkout)  
+- [02_Bug_Reports](./Web_Testing/02_Bug_Reports) – Documented bugs with severity and steps  
+- [03_Checklists](./Web_Testing/03_Checklists) – Feature and regression checklists  
+- [04_Test_Plans](./Web_Testing/04_Test_Plans) – Sprint-level test planning  
+- [05_Automation_Tests](./Web_Testing/05_Automation_Tests) – UI test automation scripts  
+- [06_API_Testing](./Web_Testing/06_API_Testing) – Backend API testing for web features  
 
-### 📱 [Mobile_testing](./Mobile_testing)
-- [01_Test_Cases](./Mobile_testing/01_Test_Cases) – Scenarios like onboarding, push notifications  
-- [02_Bug_Reports](./Mobile_testing/02_Bug_Reports) – Tracked mobile defects for Android/iOS  
-- [03_Checklists](./Mobile_testing/03_Checklists) – Mobile release checklists  
-- [04_Test_Plans](./Mobile_testing/04_Test_Plans) – QA strategy for mobile platforms  
-- [05_Automation_Tests](./Mobile_testing/05_Automation_Tests) – Automation scripts (e.g., Appium)  
-- [06_API_Testing](./Mobile_testing/06_API_Testing) – API test cases related to the app
+### 📱 [Mobile_Testing](./Mobile_testing)
+- [01_Test_Cases](./Mobile_Testing/01_Test_Cases) – Scenarios like onboarding, push notifications  
+- [02_Bug_Reports](./Mobile_Testing/02_Bug_Reports) – Tracked mobile defects for Android/iOS  
+- [03_Checklists](./Mobile_Testing/03_Checklists) – Mobile release checklists  
+- [04_Test_Plans](./Mobile_Testing/04_Test_Plans) – QA strategy for mobile platforms  
+- [05_Automation_Tests](./Mobile_Testing/05_Automation_Tests) – Automation scripts (e.g., Appium)  
+- [06_API_Testing](./Mobile_Testing/06_API_Testing) – API test cases related to the app
   
 ---
 
