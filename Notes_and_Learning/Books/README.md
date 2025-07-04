@@ -1,4 +1,4 @@
-📘 Books
+📘 Books  
 Summaries, insights, and QA-related highlights from books I've read.
 
 ## Books for QA Engineers 📚
