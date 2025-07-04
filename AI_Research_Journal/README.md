@@ -66,11 +66,9 @@ emerging technologies, and forward-thinking methodologies.
 - [The Role of AI/ML in Software Testing – arXiv (2024)](https://arxiv.org/abs/2409.02693)  
   Comparative evaluation of tools like Applitools, Eggplant AI, TestRigor.
   
-
+---
 
 
 Stay tuned — I constantly update this section with new insights.
-
----
 
 *Last updated: July 2025*
