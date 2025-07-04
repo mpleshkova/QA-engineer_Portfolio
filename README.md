@@ -10,12 +10,6 @@ Here I showcase my skills through structured documentation, real projects, and a
 - 📂 [Projects](./Projects) – Real-world QA documentation grouped by projects  
   ├── 🛒 [Rohlik](./Projects/Rohlik) – Test cases, bug reports, checklists, automation, and API testing  
   └── 🏨 [Booking](./Projects/Booking) – Functional and exploratory testing, automation scenarios, and documentation
-  
----
-
-## 🧾 CV and Contacts
-
-- 📄 [CV_and_Contacts](./CV_and_Contacts) – Resume and contact information
 
 ---
 
@@ -41,10 +35,11 @@ Here I showcase my skills through structured documentation, real projects, and a
 - Selenium + Python + Pytest
 - Postman & API Testing
 - SQL Basics, Git, Linux CLI
-
+  
 ---
 
-## 📬 Contact
+## 🧾 CV and Contacts
 
-- 📧 Email: pleshkova.bsn@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/marina-pleshkova](https://linkedin.com/in/marina-pleshkova)
+- 📄 [CV_and_Contacts](./CV_and_Contacts) – Resume and contact information
+
+
