@@ -1,7 +1,5 @@
-📘 Books  
-Summaries, insights, and QA-related highlights from books I've read.
-
 ## Books for QA Engineers 📚
+Summaries, insights, and QA-related highlights from books I've read.
 
 1. **"Lessons Learned in Software Testing"** by Cem Kaner, James Bach, Bret Pettichord  
    🛠️ Practical advice and real stories from testing experts.
