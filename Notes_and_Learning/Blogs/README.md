@@ -1,7 +1,5 @@
-📝 Blogs
-Curated blog posts and articles related to software testing and QA practices.
-
 ## Blogs and Websites 🌐
+Curated blog posts and articles related to software testing and QA practices.
 
 1. **Ministry of Testing** — [https://www.ministryoftesting.com/](https://www.ministryoftesting.com/)  
    🤝 A large testing community with articles, events, and tutorials.
