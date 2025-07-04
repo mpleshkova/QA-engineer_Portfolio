@@ -8,8 +8,9 @@ Here I showcase my skills through structured documentation, real projects, and a
 ## 📁 Projects
 
 - 📂 [Projects](./Projects) – Real-world QA documentation grouped by projects  
-  └── 🛒 [Rohlik](./Projects/Rohlik) – Test cases, bug reports, checklists, automation, and API testing
-
+  ├── 🛒 [Rohlik](./Projects/Rohlik) – Test cases, bug reports, checklists, automation, and API testing  
+  └── 🏨 [Booking](./Projects/Booking) – Functional and exploratory testing, automation scenarios, and documentation
+  
 ---
 
 ## 🧾 CV and Contacts
