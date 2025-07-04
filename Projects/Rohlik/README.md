@@ -26,7 +26,7 @@ This project showcases various QA artifacts related to both **web** and **mobile
 - [05_Automation_Tests](./Web_Testing/05_Automation_Tests) – UI test automation scripts  
 - [06_API_Testing](./Web_Testing/06_API_Testing) – Backend API testing for web features  
 
-### 📱 [Mobile_Testing](./Mobile_testing)
+### 📱 [Mobile_Testing](./Mobile_Testing)
 - [01_Test_Cases](./Mobile_Testing/01_Test_Cases) – Scenarios like onboarding, push notifications  
 - [02_Bug_Reports](./Mobile_Testing/02_Bug_Reports) – Tracked mobile defects for Android/iOS  
 - [03_Checklists](./Mobile_Testing/03_Checklists) – Mobile release checklists  
