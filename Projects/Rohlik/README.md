@@ -8,7 +8,8 @@ It allows customers to order groceries, household goods, and ready-made meals wi
 ## 📌 Platform Overview
 
 - 🌐 **Website**: [https://www.rohlik.cz/en-CZ](https://www.rohlik.cz/en-CZ)  
-- 📱 **Mobile Apps**: Available on both [Android (Google Play)](https://play.google.com/store/apps/details id=cz.rohlik.android) and [iOS (App Store)](https://apps.apple.com/cz/app/rohlik-cz/id960452452)
+- 📱 **Mobile Apps**: Available on both [Android (Google Play)(https://play.google.com/store/apps/detailsid=cz.rohlik.android)
+and [iOS (App Store)](https://apps.apple.com/cz/app/rohlik-cz/id975560575?l=cs)
 - 🗣️ **Languages**: Czech, English, and more depending on the region
 
 ---
