@@ -2,7 +2,7 @@
 
 My resume and contact details.
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: pleshkova.bsn@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/marina-pleshkova](https://linkedin.com/in/marina-pleshkova)
 
 The file `CV_YourName.pdf` contains my full resume.
