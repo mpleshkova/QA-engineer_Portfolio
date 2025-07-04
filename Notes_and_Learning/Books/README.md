@@ -1,17 +1,19 @@
 📘 Books
 Summaries, insights, and QA-related highlights from books I've read.
 
-"Lessons Learned in Software Testing" by Cem Kaner, James Bach, Bret Pettichord
-🛠️ Practical advice and real stories from testing experts.
+## Books for QA Engineers 📚
 
-"The Art of Software Testing" by Glenford Myers
-📖 A classic book explaining the basics of software testing.
+1. **"Lessons Learned in Software Testing"** by Cem Kaner, James Bach, Bret Pettichord  
+   🛠️ Practical advice and real stories from testing experts.
 
-"Agile Testing: A Practical Guide for Testers and Agile Teams" by Lisa Crispin & Janet Gregory
-🚀 How to work well with Agile teams and improve testing processes.
+2. **"The Art of Software Testing"** by Glenford Myers  
+   📖 A classic book explaining the basics of software testing.
 
-"Continuous Delivery" by Jez Humble & David Farley
-⚙️ Learn how automation helps deliver software faster and safer.
+3. **"Agile Testing: A Practical Guide for Testers and Agile Teams"** by Lisa Crispin & Janet Gregory  
+   🚀 How to work well with Agile teams and improve testing processes.
 
-"Explore It!" by Elisabeth Hendrickson
-🔍 Hands-on techniques for creative and exploratory testing.
+4. **"Continuous Delivery"** by Jez Humble & David Farley  
+   ⚙️ Learn how automation helps deliver software faster and safer.
+
+5. **"Explore It!"** by Elisabeth Hendrickson  
+   🔍 Hands-on techniques for creative and exploratory testing.
