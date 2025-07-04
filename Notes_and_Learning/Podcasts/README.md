@@ -1,7 +1,5 @@
-🎧 Podcasts  
+## Podcasts 🎧
 Notable QA-related podcasts and episodes with notes or key takeaways.
-
-## Podcasts 🎙️
 
 1. **Test & Code** — [https://testandcode.com/](https://testandcode.com/)  
    💬 Talks about testing and programming, great for learning new ideas.
