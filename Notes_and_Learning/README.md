@@ -10,3 +10,12 @@ Collected blog posts and articles related to software testing, automation, QA be
 
 ## 🎧 [Podcasts](./Podcasts)
 A collection of QA and tech-related podcasts that inspire and educate. Includes episode notes and standout insights.
+
+---
+
+## 🧘 Focus & Productivity
+
+Here are some tools and resources that help me stay focused and work more efficiently during testing and learning sessions:
+
+- 🎶 [My Deep Work Playlist](https://open.spotify.com/...) – A curated playlist I use to stay in flow.
+- 🌳 [Forest App](https://www.forestapp.cc/) – A gamified focus timer that helps me avoid distractions.
