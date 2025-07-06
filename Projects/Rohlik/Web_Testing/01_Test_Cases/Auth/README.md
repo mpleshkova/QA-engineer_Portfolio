@@ -102,3 +102,11 @@ Test scenarios validating login, registration, and password recovery flows.
 3. Click "Register"  
 
 **Expected:** Password field shows strength error / form is not submitted  
+
+---
+
+## 📂 Files
+
+| File Name                                       | Description                                |
+|------------------------------------------------|--------------------------------------------|
+| [`Rohlik_Web_Test_Cases_Auth.csv`](./Rohlik_Web_Test_Cases_Auth.csv) | Structured test cases in CSV format for easy viewing, editing, and importing into test management tools |
