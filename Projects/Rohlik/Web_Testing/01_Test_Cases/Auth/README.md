@@ -63,7 +63,7 @@ Test scenarios validating login, registration, and password recovery flows.
 ### ❌ TC006: Password Recovery (Unregistered Email)  
 **Type:** Negative, Functional  
 **Steps:**  
-1. Go to login page → "Forgot Password?"  
+1. Go to login page and click "Forgot Password?"  
 2. Enter unregistered email  
 3. Submit form  
 
