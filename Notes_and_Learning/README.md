@@ -17,5 +17,5 @@ A collection of QA and tech-related podcasts that inspire and educate. Includes 
 
 Here are some tools and resources that help me stay focused and work more efficiently during testing and learning sessions:
 
-- 🎶 [My Deep Work Playlist](https://open.spotify.com/...) – A curated playlist I use to stay in flow.
+- 🎶 [My Deep Work Playlist]([https://open.spotify.com/playlist/6Uls6BAiuTRMfqEUyyeODT?si=4b2de7295b5c4bbf]) – A curated playlist I use to stay in flow.
 - 🌳 [Forest App](https://www.forestapp.cc/) – A gamified focus timer that helps me avoid distractions.
