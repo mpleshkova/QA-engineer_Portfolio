@@ -1,9 +1,9 @@
-## 🔍 Product Search Test Cases
+# 🔍 Product Search Test Cases
 Test cases covering product search, filters, suggestions, and empty results.
 
 ---
 
-#### ✅ TC001: Search by Full Product Name  
+### ✅ TC001: Search by Full Product Name  
 **Type:** Positive, Functional  
 **Steps:**  
 1. Navigate to the homepage  
@@ -14,7 +14,7 @@ Test cases covering product search, filters, suggestions, and empty results.
 
 ---
 
-#### ✅ TC002: Search by Partial Product Name  
+### ✅ TC002: Search by Partial Product Name  
 **Type:** Positive, Functional  
 **Steps:**  
 1. Navigate to the homepage  
@@ -25,7 +25,7 @@ Test cases covering product search, filters, suggestions, and empty results.
 
 ---
 
-#### ✅ TC003: Search by Category Name  
+### ✅ TC003: Search by Category Name  
 **Type:** Positive, Functional  
 **Steps:**  
 1. Navigate to the homepage  
@@ -36,7 +36,7 @@ Test cases covering product search, filters, suggestions, and empty results.
 
 ---
 
-#### ❌ TC004: Search with Special Characters  
+### ❌ TC004: Search with Special Characters  
 **Type:** Negative, Validation  
 **Steps:**  
 1. Enter special characters (e.g., "@#$%") in the search bar  
@@ -46,7 +46,7 @@ Test cases covering product search, filters, suggestions, and empty results.
 
 ---
 
-#### ❌ TC005: Search for Non-Existent Product  
+### ❌ TC005: Search for Non-Existent Product  
 **Type:** Negative, Functional  
 **Steps:**  
 1. Enter a product name that doesn’t exist (e.g., "xyzabc123")  
@@ -56,7 +56,7 @@ Test cases covering product search, filters, suggestions, and empty results.
 
 ---
 
-#### ✅ TC006: Autocomplete Suggestions  
+### ✅ TC006: Autocomplete Suggestions  
 **Type:** Positive, UX  
 **Steps:**  
 1. Start typing a valid product name  
@@ -66,7 +66,7 @@ Test cases covering product search, filters, suggestions, and empty results.
 
 ---
 
-#### ✅ TC007: Search with Filters (e.g., Price Range, Brand)  
+### ✅ TC007: Search with Filters (e.g., Price Range, Brand)  
 **Type:** Positive, Functional  
 **Steps:**  
 1. Search for a common term (e.g., "milk")  
@@ -76,7 +76,7 @@ Test cases covering product search, filters, suggestions, and empty results.
 
 ---
 
-#### ✅ TC008: Clear Search Functionality  
+### ✅ TC008: Clear Search Functionality  
 **Type:** Positive, UI/UX  
 **Steps:**  
 1. Enter a query in the search bar  
