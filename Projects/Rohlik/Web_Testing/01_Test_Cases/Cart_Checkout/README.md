@@ -114,4 +114,4 @@ Test cases covering cart actions, delivery selection, and payment flow.
 
 | File Name                                       | Description                                |
 |------------------------------------------------|--------------------------------------------|
-| [`Rohlik_Web_Test_Cases_Auth.csv`](./Rohlik_Web_Test_Cases_Auth.csv) | Structured test cases in CSV format for easy viewing, editing, and importing into test management tools |
+| [`Rohlik_Web_Test_Cases_Cart_Checkout.csv`](./Rohlik_Web_Test_Cases_Cart_Checkout.csv) | Structured test cases in CSV format for easy viewing, editing, and importing into test management tools |
