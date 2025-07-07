@@ -90,5 +90,5 @@ Test cases covering product search, filters, suggestions, and empty results.
 
 | File Name                                       | Description                                |
 |------------------------------------------------|--------------------------------------------|
-| [`Rohlik_Web_Test_Cases_Cart_Checkout.csv`](./Rohlik_Web_Test_Cases_Cart_Checkout.csv) | Structured test cases in CSV format for easy viewing, editing, and importing into test management tools |
+| [`Rohlik_Web_Test_Cases_Product_Search.csv`](./Rohlik_Web_Test_Cases_Product_Search.csv) | Structured test cases in CSV format for easy viewing, editing, and importing into test management tools |
 
