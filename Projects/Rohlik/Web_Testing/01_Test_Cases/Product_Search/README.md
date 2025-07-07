@@ -1,4 +1,4 @@
-### 🔍 Product Search Test Cases
+## 🔍 Product Search Test Cases
 Test cases covering product search, filters, suggestions, and empty results.
 
 ---
