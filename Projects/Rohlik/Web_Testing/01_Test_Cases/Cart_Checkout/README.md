@@ -9,7 +9,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Steps**:  
 1. Navigate to the product listing page  
 2. Select a product  
-3. Click “Add to Cart”  
+3. Click “Add to Cart”
+   
 **Expected**: Product is added to cart, cart icon count increases  
 
 ---
