@@ -19,7 +19,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Type**: Positive, Functional  
 **Steps**:  
 1. Open cart  
-2. Click “Remove” next to a product  
+2. Click “Remove” next to a product
+   
 **Expected**: Product is removed from cart, total is updated  
 
 ---
@@ -28,7 +29,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Type**: Positive, Functional  
 **Steps**:  
 1. Add a product to cart  
-2. Change the quantity to 3  
+2. Change the quantity to 3
+   
 **Expected**: Quantity updates correctly, total price recalculates  
 
 ---
@@ -38,7 +40,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Steps**:  
 1. Open cart  
 2. Enter a valid voucher code  
-3. Click “Apply”  
+3. Click “Apply”
+   
 **Expected**: Voucher is accepted, and corresponding discount is applied to the total amount  
 
 ---
@@ -48,7 +51,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Steps**:  
 1. Open cart  
 2. Enter an invalid or expired voucher code  
-3. Click “Apply”  
+3. Click “Apply”
+   
 **Expected**: Error message is displayed indicating the voucher is invalid or expired; no discount is applied  
 
 ---
@@ -58,7 +62,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Steps**:  
 1. Add one or more products to the cart  
 2. Refresh the page (F5 or browser reload)  
-3. Open the cart  
+3. Open the cart
+   
 **Expected**: Previously added products remain in the cart; quantities and prices are preserved  
 
 ---
@@ -67,7 +72,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Type**: Positive, Functional  
 **Steps**:  
 1. Proceed to checkout  
-2. Choose from available delivery slots  
+2. Choose from available delivery slots
+   
 **Expected**: Selected slot is saved and shown in order summary  
 
 ---
@@ -77,7 +83,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Steps**:  
 1. On payment page  
 2. Enter valid card details  
-3. Submit payment  
+3. Submit payment
+   
 **Expected**: Payment is processed, user sees confirmation  
 
 ---
@@ -87,7 +94,8 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Steps**:  
 1. On payment page  
 2. Enter expired card details  
-3. Submit payment  
+3. Submit payment
+   
 **Expected**: Error message appears, payment is not processed  
 
 ---
@@ -96,5 +104,14 @@ Test cases covering cart actions, delivery selection, and payment flow.
 **Type**: Negative, UI/UX  
 **Steps**:  
 1. Open cart (empty)  
-2. Click “Checkout”  
+2. Click “Checkout”
+   
 **Expected**: Warning message appears or button is disabled
+
+---
+
+## 📂 Files
+
+| File Name                                       | Description                                |
+|------------------------------------------------|--------------------------------------------|
+| [`Rohlik_Web_Test_Cases_Auth.csv`](./Rohlik_Web_Test_Cases_Auth.csv) | Structured test cases in CSV format for easy viewing, editing, and importing into test management tools |
