@@ -1,5 +1,7 @@
 ### 🔍 Product Search Test Cases
-This folder includes test cases for product search, filters, suggestions, and empty results.
+Test cases covering product search, filters, suggestions, and empty results.
+
+---
 
 #### ✅ TC001: Search by Full Product Name  
 **Type:** Positive, Functional  
@@ -81,3 +83,12 @@ This folder includes test cases for product search, filters, suggestions, and em
 2. Click the "X" or "Clear" icon
    
 **Expected:** Search bar is cleared and product listing resets or search history shown
+
+---
+
+## 📂 Files
+
+| File Name                                       | Description                                |
+|------------------------------------------------|--------------------------------------------|
+| [`Rohlik_Web_Test_Cases_Cart_Checkout.csv`](./Rohlik_Web_Test_Cases_Cart_Checkout.csv) | Structured test cases in CSV format for easy viewing, editing, and importing into test management tools |
+
