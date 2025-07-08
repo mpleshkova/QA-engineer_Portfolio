@@ -89,3 +89,11 @@ Test cases covering personal data management, password change, preferences, and 
 1. Try to access the profile page via direct URL without being logged in  
 
 **Expected:** User is redirected to login page with an access restriction message
+
+---
+
+## 📂 Files
+
+| File Name                                       | Description                                |
+|------------------------------------------------|--------------------------------------------|
+| [`Rohlik_Web_Test_Cases_Product_Search.csv`](./Rohlik_Web_Test_Cases_Product_Search.csv) | Structured test cases in CSV format for easy viewing, editing, and importing into test management tools |
