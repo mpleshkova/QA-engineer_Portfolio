@@ -4,9 +4,12 @@
 > ⚠️ This portfolio is a work in progress.  
 > Some sections are not yet fully filled in, as this is an ongoing personal project that I update regularly.  
 > I'm committed to making steady, thoughtful improvements every day.  
+>  
+> For easier navigation, empty folders are not clickable — only folders containing content are active.  
 > **Thank you for your understanding!**
 
 </details>
+
 
 # 💼 QA Engineer Portfolio
 
