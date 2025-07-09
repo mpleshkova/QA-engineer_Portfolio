@@ -1,3 +1,13 @@
+<details open>
+<summary>ℹ️ <strong>Booking project status</strong></summary>
+
+> ⚠️ This project is not being actively filled in yet.  
+> Only the folder structure is currently prepared to organize future test documentation.  
+> 
+> **Thank you for your understanding!**
+
+</details>
+
 # 🏨 Booking Project
 
 This folder contains all QA documentation, test artifacts, and automation related to the **Booking** project.
