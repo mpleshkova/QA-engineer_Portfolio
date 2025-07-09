@@ -31,7 +31,8 @@ Here I showcase my skills through structured documentation, real projects, and a
 - 📂 [Notes_and_Learning](./Notes_and_Learning) – Notes, cheat sheets, and learning materials  
   ├── 📚 [Books](./Notes_and_Learning/Books) – Must-read QA and tech-related books  
   ├── 📝 [Blogs](./Notes_and_Learning/Blogs) – Articles and blog posts on QA and testing  
-  └── 🎧 [Podcasts](./Notes_and_Learning/Podcasts) – Educational and inspiring QA-related podcasts
+  ├── 🎧 [Podcasts](./Notes_and_Learning/Podcasts) – Educational and inspiring QA-related podcasts
+  └── 🧘 Focus & Productivity
   
 ---
 
