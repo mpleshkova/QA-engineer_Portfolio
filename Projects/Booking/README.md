@@ -1,6 +1,6 @@
-# 🛒 Rohlik Project
+# 🛒 Booking Project
 
-This folder contains all QA documentation, test artifacts, and automation related to the **Rohlik** project.
+This folder contains all QA documentation, test artifacts, and automation related to the **Booking** project.
 
 ## 📁 Contents
 
