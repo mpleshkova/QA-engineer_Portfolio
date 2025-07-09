@@ -1,4 +1,4 @@
-# 📝 Test Plans
+# 📝 Test Plan
 
 ## 1. Project Overview
 Rohlik.cz is a grocery delivery platform with native mobile applications available on both Android and iOS.  
