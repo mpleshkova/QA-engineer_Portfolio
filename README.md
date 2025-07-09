@@ -1,3 +1,13 @@
+<details open>
+<summary>ℹ️ <strong>Portfolio status</strong></summary>
+
+> ⚠️ This portfolio is a work in progress.  
+> Some sections are not yet fully filled in, as this is an ongoing personal project that I update regularly.  
+> I'm committed to making steady, thoughtful improvements every day.  
+> **Thank you for your understanding!**
+
+</details>
+
 # 💼 QA Engineer Portfolio
 
 Welcome to my QA Engineer portfolio!  
