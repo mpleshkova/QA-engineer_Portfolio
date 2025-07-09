@@ -32,7 +32,7 @@ Here I showcase my skills through structured documentation, real projects, and a
   ├── 📚 [Books](./Notes_and_Learning/Books) – Must-read QA and tech-related books  
   ├── 📝 [Blogs](./Notes_and_Learning/Blogs) – Articles and blog posts on QA and testing  
   ├── 🎧 [Podcasts](./Notes_and_Learning/Podcasts) – Educational and inspiring QA-related podcasts  
-  └── 🧘 [Focus & Productivity](./Notes_and_Learning/README.md#-focus--productivity)
+  └── 🧘 [Focus & Productivity](./Notes_and_Learning/README.md#-focus--productivity) - Tools and resources that help me stay focused and maintain productivity during deep work
   
 ---
 
