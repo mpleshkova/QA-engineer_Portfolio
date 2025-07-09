@@ -1,0 +1,25 @@
+TC ID,Title,Type,Steps,Expected Result
+TC001,Update Personal Information,"Positive, Functional","1. Log in to the user account
+2. Go to ""My Profile""
+3. Edit personal details (e.g., name, phone number)
+4. Click ""Save""","Changes are saved, and confirmation message appears"
+TC002,Change Password with Valid Credentials,"Positive, Functional","1. Log in to the user account
+2. Go to ""Change Password""
+3. Enter current password and new password
+4. Click ""Save""","Password is changed successfully, user is prompted to log in again"
+TC003,Change Password with Incorrect Current Password,"Negative, Validation","1. Go to ""Change Password""
+2. Enter incorrect current password and new password
+3. Click ""Save""","Error message is displayed: ""Incorrect current password"""
+TC004,Add New Address,"Positive, Functional","1. Navigate to ""My Addresses""
+2. Click ""Add New Address""
+3. Fill in address details
+4. Save the address",Address is added and listed under saved addresses
+TC005,Add Address with Missing Required Fields,"Negative, Validation","1. Go to ""Add New Address""
+2. Leave required fields (e.g., ZIP code) empty
+3. Click ""Save""","Validation error message appears, preventing form submission"
+TC006,Enable or Disable Email Notifications,"Positive, Functional","1. Go to ""Notification Settings""
+2. Toggle the email notifications option
+3. Click ""Save""","Preferences are saved, and user receives feedback confirmation"
+TC007,View Order History,"Positive, Functional","1. Log in to the user account
+2. Go to ""Order History""",List of past orders is displayed with status and details
+TC008,Access Profile Without Logging In,"Negative, Security",1. Try to access the profile page via direct URL without being logged in,User is redirected to login page with an access restriction message
