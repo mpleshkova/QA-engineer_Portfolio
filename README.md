@@ -55,5 +55,5 @@ Here I showcase my skills through structured documentation, real projects, and a
 ## 🧾 CV and Contacts
 
 - 📄 [CV_and_Contacts](./CV_and_Contacts) – Resume and contact information
-
+- 🌿 **Want to get to know me better?** Visit my [Personal Blog](https://github.com/mpleshkova/My_hobbies_blog) where I share my interests in food, coffee, and travel — including recipes using real products from [Rohlik.cz](https://www.rohlik.cz/en-CZ).
 
