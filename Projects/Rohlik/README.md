@@ -1,6 +1,15 @@
 > 🚀 **Bonus project:** I’ve created a [Culinary Blog](https://github.com/mpleshkova/My_hobbies_blog?tab=readme-ov-file) using real products from [Rohlik.cz](https://www.rohlik.cz/en-CZ).  
 > It combines my testing skills with real user experience — including recipes based on products available on the platform.
 
+<details>
+  <summary>🍽️ More about the blog</summary>
+  <p>
+    As a personal project, I maintain a small <a href="https://github.com/mpleshkova/my-hobbies-blog">blog</a> where I share my favorite recipes, coffee brewing notes, and travel reflections.  
+    The <strong>Culinary Blog</strong> includes meals prepared using ingredients ordered from <a href="https://www.rohlik.cz/en-CZ">Rohlik.cz</a>, which I also use as a case study in this QA portfolio.  
+    This cross-over helps me explore realistic user journeys from both customer and tester perspectives.
+  </p>
+</details>
+
 # 🛒 Rohlik – Online Grocery Shopping Platform
 
 [Rohlik.cz](https://www.rohlik.cz/en-CZ) is a modern online grocery delivery service operating across several European countries.  
