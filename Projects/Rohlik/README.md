@@ -1,3 +1,6 @@
+> 🚀 **Bonus project:** I’ve created a [Culinary Blog](https://github.com/mpleshkova/My_hobbies_blog?tab=readme-ov-file) using real products from [Rohlik.cz](https://www.rohlik.cz/en-CZ).  
+> It combines my testing skills with real user experience — including recipes based on products available on the platform.
+
 # 🛒 Rohlik – Online Grocery Shopping Platform
 
 [Rohlik.cz](https://www.rohlik.cz/en-CZ) is a modern online grocery delivery service operating across several European countries.  
