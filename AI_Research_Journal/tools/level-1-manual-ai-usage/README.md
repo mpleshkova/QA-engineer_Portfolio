@@ -7,7 +7,6 @@ Hands-on use of AI assistants for QA tasks:
 - Fast triage and reproduction steps drafting
 - Prompt engineering notes and examples
 
-Tools: ChatGPT, Claude, Gemini, NotebookLM, Copilot.
 
 
 | Tool       | QA Strengths                                                      | Best For                                   |
