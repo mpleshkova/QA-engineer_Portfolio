@@ -71,4 +71,4 @@ emerging technologies, and forward-thinking methodologies.
 
 Stay tuned — I constantly update this section with new insights.
 
-*Last updated: July 2025*
+*Last updated: September 2025*
