@@ -1,8 +1,10 @@
 # Level 2 – Creating AI Assistants
 
 Building and customizing AI helpers:
-- Custom GPTs / assistant profiles
-- Projects, Gems and reusable prompt libraries
-- Microsoft “Agents” and similar assistant builders
-- Use cases: test-case generator, bug triage assistant, test-data helper
-- Evaluation: accuracy, hallucination checks, privacy concerns
+
+| Tool/Platform | QA Strengths                                                  | Best For                                 |
+| ------------- | ------------------------------------------------------------- | ---------------------------------------- |
+| GPTs          | Customizable AI agents for test data, scripts, documentation   | Tailored QA assistants, test generation  |
+| Projects      | Organize and manage AI-powered testing initiatives             | Coordinating multi-AI QA tasks           |
+| Gems          | Reusable AI “skills” for specific testing workflows            | Modular AI capabilities in QA            |
+| MS Agents     | Microsoft-based AI agents for enterprise QA automation         | Large-scale QA, enterprise environments  |
