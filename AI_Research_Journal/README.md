@@ -11,7 +11,7 @@ emerging technologies, and forward-thinking methodologies.
 - **AI in Testing** – Exploring how artificial intelligence transforms QA
 - **UX and QA** – How user experience affects testing strategy
 - **Cognitive Biases** – Understanding human factors in testing
-- **🛠️ Tools** – Testim, TestGPT, Applitools, etc.
+- **[🛠️ Tools](./tools/)** – Deep dives into AI tools and practices
 - **📊 Experiments** – My practical notes and outcomes
 
 
